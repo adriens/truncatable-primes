@@ -18,7 +18,6 @@ import java.util.Iterator;
 import org.apache.commons.math3.primes.*;
 import java.math.BigInteger;
 
-//TODO upgrade and deal with BigInt for more fun
 @Command(name = "BigTruncatablePrimes", mixinStandardHelpOptions = true,
         version = "BigTruncatablePrimes 0.1",
         description = "see https://youtu.be/azL5ehbw_24")
