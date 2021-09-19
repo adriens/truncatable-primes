@@ -132,6 +132,9 @@ public class BigTruncatablePrimes implements Callable<Integer> {
                         System.out.println(s.substring(j, s.length()));
                         gml.write("<edge source=\"" + s.substring(j, s.length()) + "\" target=\"" + s.substring(j + 1, s.length()) + "\"/>\n");
                         gml.flush();
+						if (j == (s.length() - 2)){
+						System.out.println(s.substring(j+1, s.length()));
+						}
                     }
                 }
             
