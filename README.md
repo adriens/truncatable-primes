@@ -3,10 +3,6 @@
 A proto around Truncatable primes
 
 ```
-jbang TruncatablePrimes.java -s 10
-```
-
-```
 jbang BigTruncatablePrimes.java -s 30
 ```
 
