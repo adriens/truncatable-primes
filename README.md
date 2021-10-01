@@ -6,6 +6,6 @@ A proto around Truncatable primes
 jbang BigTruncatablePrimes.java -s 30
 ```
 
-# WHy
+# Why
 
 Because of this great [Numberphile](https://youtu.be/azL5ehbw_24) episode.
