@@ -3,7 +3,7 @@
 A proto around Truncatable primes
 
 ```
-jbang BigTruncatablePrimes.java -s 30
+jbang https://github.com/adriens/truncatable-primes/blob/main/BigTruncatablePrimes.java -s 30
 ```
 
 # Why
